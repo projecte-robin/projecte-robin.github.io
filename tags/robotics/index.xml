@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>robotics on ROB-IN Project</title>
+    <link>https://projecte-robin.github.io/tags/robotics/</link>
+    <description>Recent content in robotics on ROB-IN Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Dec 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://projecte-robin.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kick Off!</title>
+      <link>https://projecte-robin.github.io/news/2021/12/10/kickoff/</link>
+      <pubDate>Fri, 10 Dec 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://projecte-robin.github.io/news/2021/12/10/kickoff/</guid>
+      <description>Photo by Jason Goodman on Unsplash
+El 10 de Diciembre de 2021 tuvo lugar el kick-off meeting del proyecto ROB-IN en las instalaciones del Instituto de Robotica e Informatica Industrial. Los investigadores de los diferentes miembros del consorcio se reunieron para inagurar el proyecto y para debatir sobre las tareas assistenciales que los robots del proyecto debian desempeñar durante los pilotos. Para ayudar en este ejercicio se revisó el estado del arte en robótica asistencial de los últimos 15 años.</description>
+    </item>
+    
+  </channel>
+</rss>

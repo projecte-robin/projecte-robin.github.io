@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ROB-IN Project</title>
+    <link>https://projecte-robin.github.io/</link>
+    <description>Recent content on ROB-IN Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Dec 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://projecte-robin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kick Off!</title>
+      <link>https://projecte-robin.github.io/news/2021/12/10/kickoff/</link>
+      <pubDate>Fri, 10 Dec 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://projecte-robin.github.io/news/2021/12/10/kickoff/</guid>
+      <description>Photo by Jason Goodman on Unsplash
+El 10 de Diciembre de 2021 tuvo lugar el kick-off meeting del proyecto ROB-IN en las instalaciones del Instituto de Robotica e Informatica Industrial. Los investigadores de los diferentes miembros del consorcio se reunieron para inagurar el proyecto y para debatir sobre las tareas assistenciales que los robots del proyecto debian desempeñar durante los pilotos. Para ayudar en este ejercicio se revisó el estado del arte en robótica asistencial de los últimos 15 años.</description>
+    </item>
+    
+    <item>
+      <title>Consortium</title>
+      <link>https://projecte-robin.github.io/consortium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://projecte-robin.github.io/consortium/</guid>
+      <description>The main objective in ROB-IN is to develop the enabling technology towards intelligent assistive robotics, and not to develop a final robotic solution at high TRL. Thus, the partners are experts in science and technology development (CSIC, UPC), data management and analysis (DATISION) and in care assessment (SUARA). Obviously, this is only a fraction of the value chain required to develop effective assistive robots, but at this point we still need to develop and validate some key enabling technologies.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://projecte-robin.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://projecte-robin.github.io/contact/</guid>
+      <description>We are here to help you Are you curious about something? Are you interested in our project? Would you like to collaborate?
+Please feel free to contact us and we will reach you as soon as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

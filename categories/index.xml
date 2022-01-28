@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ROB-IN Project</title>
+    <link>https://projecte-robin.github.io/categories/</link>
+    <description>Recent content in Categories on ROB-IN Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Dec 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://projecte-robin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meeting</title>
+      <link>https://projecte-robin.github.io/categories/meeting/</link>
+      <pubDate>Fri, 10 Dec 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://projecte-robin.github.io/categories/meeting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

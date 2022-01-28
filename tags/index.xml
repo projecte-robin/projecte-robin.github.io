@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ROB-IN Project</title>
+    <link>https://projecte-robin.github.io/tags/</link>
+    <description>Recent content in Tags on ROB-IN Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Dec 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://projecte-robin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>assistive</title>
+      <link>https://projecte-robin.github.io/tags/assistive/</link>
+      <pubDate>Fri, 10 Dec 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://projecte-robin.github.io/tags/assistive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>https://projecte-robin.github.io/tags/robotics/</link>
+      <pubDate>Fri, 10 Dec 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://projecte-robin.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on ROB-IN Project</title>
+    <link>https://projecte-robin.github.io/authors/</link>
+    <description>Recent content in Authors on ROB-IN Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Dec 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://projecte-robin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cristian Barrué</title>
+      <link>https://projecte-robin.github.io/authors/cristian-barru%C3%A9/</link>
+      <pubDate>Fri, 10 Dec 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://projecte-robin.github.io/authors/cristian-barru%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
